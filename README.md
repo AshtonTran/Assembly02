@@ -1,5 +1,4 @@
 # assembly02
-Subtracting
 Subtract the Bregister from the Aregister and put the difference in the Cregister.
 
 Initialize these variables depending on the first letter of your last name:
